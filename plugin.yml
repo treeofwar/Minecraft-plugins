@@ -1,0 +1,13 @@
+name: firstplugin #Big capital on project names
+author: tree
+version: 1.0
+api-version: 1.12.2
+main: minecraftplugin1.main #isnt main a class? classes starts with capital letter
+
+commands:
+  giveitem:
+    usage:  /<command>
+  inventory:
+    usage:  /<command>
+  heal:
+    usage:  /heal
